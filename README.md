@@ -1,13 +1,20 @@
-### Hey, Im Hafsa 🙋🏻‍♀️
-<p>I'm a 21-year-old developer based in Pakistan, and I'm passionate about crafting digital experiences.</p>
+# Hi there, I'm Hafsa! 👋
 
-<hr  size="1" width="100%" align="center">
+I'm 21-year-old studying Computer Science with interests in everything except Computer Science. Welcome to my GitHub profile!
 
+## About Me
 
-- 🔭 I’m currently working on Back-end Development and 
-- 🌱 I’m currently learning Data Structures, Algorithms, Web development and concepts of OOP
-- 👯 I’m looking to collaborate on Front-end Development Projects 😁
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+-  I'm currently learning Data Structures & Algorithm, Object Orientation Programming and Web Development.
+-  I'm currently working on Back-end Projects 
+-  In my free time, I enjoy reading about astronomy, quantum physics, fiction 😉 and watching anime ✨ .
+
+## Toolbox
+
+- Programming Languages: C , Java, javascript, python.
+- Web Development: React, Bootstrap, nodejs.
+- Version Control: Git.
+
+## Fun Fact
+
+- As a kid, I wanted to be an Artist.
 
