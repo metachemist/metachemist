@@ -1,6 +1,6 @@
 # Hi there, I'm Hafsa! 👋
 
-I'm 21-year-old studying Computer Science with interests in everything except Computer Science. Welcome to my GitHub profile!
+I'm 20-year-old studying Computer Science with interests in everything except Computer Science. Welcome to my GitHub profile!
 
 ## 👧🏻About Me
 
