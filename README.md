@@ -20,7 +20,6 @@
 
 - ⚡ Some Fun Facts about me! <br>1. As a kid, I want to be an Artist <br>2. My favouite disney movie is "Tangled"
 </p>
-<hr>
 
 <h2 align="center"> 📦 My ToolBox 📦 </h2>
 <p align="center">
@@ -46,7 +45,6 @@
 </p>
 
 </p>
-<hr>
 
     
 <h2 align="center"> 🔗 Connect with me 🔗 </h2>
@@ -56,7 +54,6 @@
 <a href="https://codeforces.com/profile/metachemist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="metachemist" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/metachemist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="metachemist" height="30" width="40" /></a>
 </p>
-<hr>
 
 
 
