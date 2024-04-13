@@ -46,18 +46,7 @@
 
 </p>
 
-    
-<h2 align="center"> 🔗 Connect with me 🔗 </h2>
-<p align="center">
-  <a href="https://linkedin.com/in/hafsa-shahid-8a1850247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafsa-shahid-8a1850247" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/Hafsa Shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Hafsa Shahid" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/metachemist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="metachemist" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/metachemist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="metachemist" height="30" width="40" /></a>
-</p>
-
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Some Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
