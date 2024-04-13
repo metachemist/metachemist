@@ -69,4 +69,4 @@
 </p>
 
 <hr>
-<h4 align="center">Show some ❤️ by starring some repositories</h4>
+<h3 align="center">Show some ❤️ by starring some repositories</h3>
