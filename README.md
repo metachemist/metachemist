@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **meta.chemist.22@gmail.com**
 
-- 💫 Other then tech, I'm interest in *astronomy* and love reading *fictional books*
+- 💫 Other then tech, I'm interest in **astronomy** and love reading **fictional books**
 
 - ⚡ Some Fun Facts about me! <br>1. As a kid, I want to be an Artist <br>2. My favouite disney movie is "Tangled"
 </p>
