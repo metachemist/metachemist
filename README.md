@@ -4,7 +4,7 @@ I'm 20-year-old studying Computer Science. Welcome to my GitHub profile!
 
 ## 👧🏻About Me
 
--  I'm currently learning Data Structures & Algorithm, Object Orientation Programming and Web Development.
+-  I'm currently learning Data Structures & Algorithm, Object Orientated Programming and Web Development.
 -  I'm currently working on Back-end Projects 
 -  In my free time, I enjoy reading about astronomy, quantum physics, fiction 😉 and watching anime ✨ .
 
