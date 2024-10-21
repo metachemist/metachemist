@@ -8,7 +8,7 @@
 <h2 align="center"> ✨ About me ! ✨ </h2>
 <p align="center">
 
-- 🔭 I’m currently working on **"Postify (Spotify's Clone)"** - an frontend project just for fun. 
+- 🔭 I’m currently working on **"Prompterest"** - a full-stack nextJs application. 
 
 - 🌱 I’m currently learning **Data Structures and Algorithm, Web Development and Object-Orientated Programming.**
 
