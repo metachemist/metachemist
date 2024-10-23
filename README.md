@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There👋🏻;This+is+Hafsa+Shahid..;&center=true&size=25">
   </a>
 </h1>
-<h4 align="center">I'm 20-year-old studying Computer Science with the interest in Web development and Machine learning.</h4>
+<h4 align="center">I'm 21-year-old studying Computer Science with the interest in Web development and Machine learning.</h4>
 
 <h2 align="center"> ✨ About me ! ✨ </h2>
 <p align="center">
@@ -35,6 +35,7 @@
 
 <h4 align="left">Libraries and Frameworks:</h4>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+
 </p>
 
 <h4 align="left">Version Control:</h4>
