@@ -6,7 +6,7 @@
 
 -  I Design and Develop websites.
 
--  I'm currently enrolled in Cloud Computing Generative AI engineering.
+-  I am currently learning "Cloud Computing Generative AI engineering".
 
 -  How to reach me **meta.chemist.22@gmail.com**
 
