@@ -1,5 +1,3 @@
-<h4 align="center">I'm 21-year-old studying Computer Science with the interest in Web development and Machine learning.</h4>
-
 <h2 align="center">About me !</h2>
 <p align="center">
 
