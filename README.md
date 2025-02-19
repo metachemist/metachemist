@@ -1,27 +1,22 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There👋🏻;This+is+Hafsa+Shahid..;&center=true&size=25">
-  </a>
-</h1>
 <h4 align="center">I'm 21-year-old studying Computer Science with the interest in Web development and Machine learning.</h4>
 
-<h2 align="center"> ✨ About me ! ✨ </h2>
+<h2 align="center">About me !</h2>
 <p align="center">
 
-- 🔭 I’m currently working on **"Prompterest"** - a full-stack nextJs application. 
+-  I’m currently working on **"Prompterest"** - a full-stack nextJs application. 
 
-- 🌱 I’m currently learning **Data Structures and Algorithm, Web Development and Object-Orientated Programming.**
+-  I’m currently learning **Data Structures and Algorithm, Web Development and Object-Orientated Programming.**
 
-- 👩🏻‍💻 I'm currently enrolled in **Meta Backend development program.**
+-  I'm currently enrolled in **Meta Backend development program.**
 
-- 📫 How to reach me **meta.chemist.22@gmail.com**
+-  How to reach me **meta.chemist.22@gmail.com**
 
-- 💫 Other than tech, I'm interest in **astronomy** and love reading **fictional books**
+-  Other than tech, I'm interest in **astronomy** and love reading **fictional books**
 
-- ⚡ Some Fun Facts about me! <br>1. As a kid, I want to be an Artist <br>2. My favouite disney movie is "Tangled"
+-  Some Fun Facts about me! <br>1. As a kid, I want to be an Artist <br>2. My favouite disney movie is "Tangled"
 </p>
 
-<h2 align="center"> 📦 My ToolBox 📦 </h2>
+<h2 align="center"> My ToolBox </h2>
 <p align="center">
   <h4 align="left">Programming Languages:</h4>
 <p align="left"> 
@@ -47,7 +42,7 @@
 
 </p>
 
-<h2 align="center">⚡ Some Stats ⚡</h2>
+<h2 align="center"> Some Stats </h2>
 <br>
 <p align=center>
   <div align=center>
