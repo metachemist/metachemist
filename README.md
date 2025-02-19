@@ -3,17 +3,16 @@
 <h2 align="center">About me !</h2>
 <p align="center">
 
--  I’m currently working on **"Prompterest"** - a full-stack nextJs application. 
 
--  I’m currently learning **Data Structures and Algorithm, Web Development and Object-Orientated Programming.**
+-  I Design and Develop websites.
 
--  I'm currently enrolled in **Meta Backend development program.**
+-  I'm currently enrolled in Cloud Computing Generative AI engineering.
 
 -  How to reach me **meta.chemist.22@gmail.com**
 
 -  Other than tech, I'm interest in **astronomy** and love reading **fictional books**
 
--  Some Fun Facts about me! <br>1. As a kid, I want to be an Artist <br>2. My favouite disney movie is "Tangled"
+-  Some Fun Facts about me! <br>1. As a kid, I want to be an Artist <br>2. My favorite anime is "Attack on titan".
 </p>
 
 <h2 align="center"> My ToolBox </h2>
