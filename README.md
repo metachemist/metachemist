@@ -36,7 +36,14 @@
 <p align="left">
    </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
 </p>
+
+<h2 align="center">GitHub Stats 📈</h2>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=metachemist&theme=github_dark_dimmed&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metachemist&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
 <h3 align="center">Show some ❤️ by starring some repositories</h3>
