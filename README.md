@@ -1,6 +1,5 @@
-<h2 align="center">About me !</h2>
+<h2 align="center">About me✨</h2>
 <p align="center">
-
 
 -  I Design and Develop websites.
 
@@ -38,10 +37,12 @@
 </p>
 </p>
 
-<h2 align="center">GitHub Stats 📈</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
+</br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=metachemist&theme=github_dark_dimmed&hide_border=false" />
+  <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metachemist&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
