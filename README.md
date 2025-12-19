@@ -9,7 +9,7 @@
 
 -  Other than tech, I love reading **fictional books**
 
--  Some Fun Facts about me! <br>1. As a kid, I want to be an Artist <br>2. My favorite anime is "Attack on titan".
+-  Some Fun Facts about me! <br>1. As a kid, I wanted to be an Artist <br>2. My favorite anime is "Attack on titan".
 </p>
 
 <h2 align="center"> My ToolBox </h2>
