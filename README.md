@@ -1,54 +1,22 @@
-<h2 align="center">About me✨</h2>
-<p align="center">
+<h3 align="center">Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> </h3>
 
-- I'm a 3rd-year CS student figuring out how to make computers think. 
-- I started with web dev, fell down the rabbit hole of **Operating Systems & Compilers**, and now I'm building **Agentic AI**.
-- I think in diagrams, not walls of text.
+- I’m **Hafsa**, a computer engineer based in Pakistan.
+- I design systems that can think for themselves.
+- If an idea survives the flowchart phase, I’ll turn it into code.
 
+<h3 align="center">My Inventory</h3>
 
+- My top stack includes **Python**, **Claude Code**, **Gemini CLI** , and **spec-kit plus**. 
+- My favorite Agent framework is **OpenAI Agents SDK**. and for frontend I prefer **NEXT.JS**.
+- But I'm not picky, I've built with **TypeScript**, **Java**, and **C**, and I’m comfortable digging into low-level systems when I need to.
+- I’ve got a bunch of pinned projects, but my favorite is the 
+  <a href="https://github.com/metachemist/specs-textbook-with-rag"><b>Physical AI Textbook</b></a>.
 
-<h4 align="left"> What I'm working on </h4>
-Right now, I'm building **[Physical AI Textbook](https://github.com/metachemist/specs-textbook-with-rag)**. 
-It's an interactive learning platform that uses **RAG (Retrieval-Augmented Generation)** to let students chat directly with their textbooks. 
-
-* **The Goal:** Move beyond static PDFs to books that can answer questions.
-* **The Tech:** Next.js, FastAPI, Vector Databases (Qdrant), and LLMs.
-
-</p>
-
-<h2 align="center"> My ToolBox </h2>
-<p align="center">
-  <h4 align="left">Programming Languages:</h4>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-
-<h4 align="left">Libraries and Frameworks:</h4>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-   <a href="/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> 
-   <a href="/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextJs" width="40" height="40"/> </a> 
-   <a href="/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a> 
-</p>
-
-<h4 align="left">Version Control:</h4>
-<p align="left">
-   </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
-</p>
-
-<h2 align="center">GitHub Stats</h2>
-
-<div align="center">
-</br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=metachemist&theme=github_dark_dimmed&hide_border=false" />
-  <br/>
-  <br/>
+<h3 align="center">GitHub Stats</h3>
+<div align="left">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=metachemist&theme=github_dark_dimmed&hide_border=false" width="417"/> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metachemist&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-<h3 align="center">Show some ❤️ by starring some repositories</h3>
