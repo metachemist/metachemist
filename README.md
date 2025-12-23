@@ -1,15 +1,33 @@
 <h2 align="center">About me✨</h2>
 <p align="center">
+# Hi, I'm Hafsa! (metachemist) 👋
 
--  I Design and Develop websites.
+I’m a Computer Science student and a visual learner who loves breaking down complex systems. 
 
--  I am currently learning "Cloud Computing Generative AI engineering".
+I started out building standard web apps, but lately, I’ve been obsessed with **Agentic AI**—making software that doesn't just display data, but understands and acts on it. When I'm not coding, I'm usually lost in a fiction book or re-watching *Attack on Titan*.
 
--  How to reach me **meta.chemist.22@gmail.com**
+---
 
--  Other than tech, I love reading **fictional books**
+### 🔭 What I'm working on
+Right now, I'm building **[Physical AI Textbook](https://github.com/metachemist/specs-textbook-with-rag)**. 
+It's an interactive learning platform that uses **RAG (Retrieval-Augmented Generation)** to let students chat directly with their textbooks. 
 
--  Some Fun Facts about me! <br>1. As a kid, I wanted to be an Artist <br>2. My favorite anime is "Attack on titan".
+* **The Goal:** Move beyond static PDFs to books that can answer questions.
+* **The Tech:** Next.js, FastAPI, Vector Databases (Qdrant), and LLMs.
+
+---
+
+### 🗺️ My Current Path
+Since I understand things better with diagrams, here is a snapshot of where I am heading:
+
+```mermaid
+flowchart LR
+    A[Web Development] -->|Building UIs & APIs| B(Systems Engineering)
+    B -->|OS & Compilers| C{Agentic AI}
+    C -->|Reasoning Models| D[Smart Applications]
+    
+    style C fill:#ffe4b5,stroke:#333,stroke-width:2px,color:#000
+```
 </p>
 
 <h2 align="center"> My ToolBox </h2>
