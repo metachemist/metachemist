@@ -1,6 +1,6 @@
 <h3 align="center">Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> </h3>
 
-- I’m **Hafsa**, a computer engineer based in Pakistan.
+- I’m **Hafsa**, a computer science undergrad based in Pakistan.
 - I design systems that can think for themselves.
 - If an idea survives the flowchart phase, I’ll turn it into code.
 
