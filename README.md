@@ -9,9 +9,7 @@
 - My top stack includes **Python**, **Claude Code**, **Gemini CLI** , and **spec-kit plus**. 
 - My favorite Agent framework is **OpenAI Agents SDK**. and for frontend I prefer **NEXT.JS**.
 - But I'm not picky, I've built with **TypeScript**, **Java**, and **C**, and I’m comfortable digging into low-level systems when I need to.
-- I’ve got a bunch of pinned projects, but my favorite is the 
-  <a href="https://github.com/metachemist/specs-textbook-with-rag"><b>Physical AI Textbook</b></a>.
-
+- I’ve got a bunch of pinned projects, you can star your favorite ones!
 <h3 align="center">GitHub Stats</h3>
 <div align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
