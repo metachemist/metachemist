@@ -10,11 +10,12 @@
 - My favorite Agent framework is **OpenAI Agents SDK**. and for frontend I prefer **NEXT.JS**.
 - But I'm not picky, I've built with **TypeScript**, **Java**, and **C**, and I’m comfortable digging into low-level systems when I need to.
 
-<h3 align="center">GitHub Stats</h3>
+<!-- <h3 align="center">GitHub Stats</h3>
+
 <div align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://nirzak-streak-stats.vercel.app/?user=metachemist&theme=github_dark_dimmed&hide_border=false" width="417"/> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metachemist&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
+</div> -->
 
