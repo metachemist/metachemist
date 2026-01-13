@@ -7,7 +7,7 @@
 <h3 align="center">My Inventory</h3>
 
 - My top stack includes **Python**, **Claude Code**, **Gemini CLI**. 
-- My favorite frameworks are  **spec-kit plus**, **OpenAI Agents SDK**. and for frontend I prefer **NEXT.JS**.
+- My favorite frameworks are  **Spec-Kit Plus**, **OpenAI Agents SDK**. and for frontend I prefer **NEXT.JS**.
 - But I'm not picky, I've built with **TypeScript**, **Java**, and **C**, and I’m comfortable digging into low-level systems when I need to.
 
 <!-- <h3 align="center">GitHub Stats</h3>
