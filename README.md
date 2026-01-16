@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://www.patreon.com/metachemist">
-    <img src="https://img.shields.io/badge/Support%20My%20Work-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" height="40" />
+    <img src="https://img.shields.io/badge/Sponsor-FF424D?style=flat&logo=patreon&logoColor=white" alt="Support on Patreon" />
   </a>
 </div>
 
