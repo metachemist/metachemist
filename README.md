@@ -10,6 +10,12 @@
 - My favorite frameworks are  **Spec-Kit Plus**, **OpenAI Agents SDK** and for frontend I prefer **NEXT.JS**.
 - But I'm not picky, I've built with **TypeScript**, **Java**, and **C**, and I’m comfortable digging into low-level systems when I need to.
 
+<div align="center">
+  <a href="https://www.patreon.com/metachemist">
+    <img src="https://img.shields.io/badge/Support%20My%20Work-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" height="40" />
+  </a>
+</div>
+
 <!-- <h3 align="center">GitHub Stats</h3>
 
 <div align="left">
