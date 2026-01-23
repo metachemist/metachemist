@@ -10,7 +10,7 @@
 - My favorite frameworks are  **Spec-Kit Plus**, **OpenAI Agents SDK** and for frontend I prefer **Next.js**.
 - But I'm not picky, I've built with **TypeScript**, **Java**, and **C**, and I’m comfortable digging into low-level systems when I need to.
 
-</br></br></br></br>
+<!-- </br></br></br></br>
 If you find my projects helpful or enjoy my work on **Agentic AI**, please consider supporting me on Patreon!
 As a student, your support helps cover API costs, server fees, and keeps me caffeinated for late-night coding sessions. ☕
 </br>
@@ -18,7 +18,7 @@ As a student, your support helps cover API costs, server fees, and keeps me caff
   <a href="https://www.patreon.com/metachemist">
     <img src="https://img.shields.io/badge/Sponsor%20me-Patreon-F96854?style=social&logo=patreon" alt="Support on Patreon" />
   </a>
-</div>
+</div> -->
 
 <!-- <h3 align="center">GitHub Stats</h3>
 
